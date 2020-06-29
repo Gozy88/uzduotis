@@ -71,6 +71,8 @@ namespace _20200629_uzduotis
             villain.Introduce();
 
             Console.ReadLine();
+            Console.WriteLine("Sukursiu galingesni");
+            Hero hero = new Hero("Triusis", "Baksis", "Shooting with bazuka!");
         }
     }
 }
